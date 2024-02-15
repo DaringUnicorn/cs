@@ -1,0 +1,14 @@
+C:\Users\Panda\OneDrive\desktop\c#\arrayMethods\obj\Debug\net8.0\arrayMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Panda\OneDrive\desktop\c#\arrayMethods\obj\Debug\net8.0\arrayMethods.AssemblyInfoInputs.cache
+C:\Users\Panda\OneDrive\desktop\c#\arrayMethods\obj\Debug\net8.0\arrayMethods.AssemblyInfo.cs
+C:\Users\Panda\OneDrive\desktop\c#\arrayMethods\obj\Debug\net8.0\arrayMethods.csproj.CoreCompileInputs.cache
+C:\Users\Panda\OneDrive\desktop\c#\arrayMethods\bin\Debug\net8.0\arrayMethods.exe
+C:\Users\Panda\OneDrive\desktop\c#\arrayMethods\bin\Debug\net8.0\arrayMethods.deps.json
+C:\Users\Panda\OneDrive\desktop\c#\arrayMethods\bin\Debug\net8.0\arrayMethods.runtimeconfig.json
+C:\Users\Panda\OneDrive\desktop\c#\arrayMethods\bin\Debug\net8.0\arrayMethods.dll
+C:\Users\Panda\OneDrive\desktop\c#\arrayMethods\bin\Debug\net8.0\arrayMethods.pdb
+C:\Users\Panda\OneDrive\desktop\c#\arrayMethods\obj\Debug\net8.0\arrayMethods.dll
+C:\Users\Panda\OneDrive\desktop\c#\arrayMethods\obj\Debug\net8.0\refint\arrayMethods.dll
+C:\Users\Panda\OneDrive\desktop\c#\arrayMethods\obj\Debug\net8.0\arrayMethods.pdb
+C:\Users\Panda\OneDrive\desktop\c#\arrayMethods\obj\Debug\net8.0\arrayMethods.genruntimeconfig.cache
+C:\Users\Panda\OneDrive\desktop\c#\arrayMethods\obj\Debug\net8.0\ref\arrayMethods.dll

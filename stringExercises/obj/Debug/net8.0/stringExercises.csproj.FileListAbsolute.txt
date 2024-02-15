@@ -1,0 +1,14 @@
+C:\Users\Panda\OneDrive\desktop\c#\stringExercises\obj\Debug\net8.0\stringExercises.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Panda\OneDrive\desktop\c#\stringExercises\obj\Debug\net8.0\stringExercises.AssemblyInfoInputs.cache
+C:\Users\Panda\OneDrive\desktop\c#\stringExercises\obj\Debug\net8.0\stringExercises.AssemblyInfo.cs
+C:\Users\Panda\OneDrive\desktop\c#\stringExercises\obj\Debug\net8.0\stringExercises.csproj.CoreCompileInputs.cache
+C:\Users\Panda\OneDrive\desktop\c#\stringExercises\bin\Debug\net8.0\stringExercises.exe
+C:\Users\Panda\OneDrive\desktop\c#\stringExercises\bin\Debug\net8.0\stringExercises.deps.json
+C:\Users\Panda\OneDrive\desktop\c#\stringExercises\bin\Debug\net8.0\stringExercises.runtimeconfig.json
+C:\Users\Panda\OneDrive\desktop\c#\stringExercises\bin\Debug\net8.0\stringExercises.dll
+C:\Users\Panda\OneDrive\desktop\c#\stringExercises\bin\Debug\net8.0\stringExercises.pdb
+C:\Users\Panda\OneDrive\desktop\c#\stringExercises\obj\Debug\net8.0\stringExercises.dll
+C:\Users\Panda\OneDrive\desktop\c#\stringExercises\obj\Debug\net8.0\refint\stringExercises.dll
+C:\Users\Panda\OneDrive\desktop\c#\stringExercises\obj\Debug\net8.0\stringExercises.pdb
+C:\Users\Panda\OneDrive\desktop\c#\stringExercises\obj\Debug\net8.0\stringExercises.genruntimeconfig.cache
+C:\Users\Panda\OneDrive\desktop\c#\stringExercises\obj\Debug\net8.0\ref\stringExercises.dll

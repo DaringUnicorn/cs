@@ -1,0 +1,14 @@
+C:\Users\Panda\OneDrive\desktop\c#\slicing\obj\Debug\net8.0\slicing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Panda\OneDrive\desktop\c#\slicing\obj\Debug\net8.0\slicing.AssemblyInfoInputs.cache
+C:\Users\Panda\OneDrive\desktop\c#\slicing\obj\Debug\net8.0\slicing.AssemblyInfo.cs
+C:\Users\Panda\OneDrive\desktop\c#\slicing\obj\Debug\net8.0\slicing.csproj.CoreCompileInputs.cache
+C:\Users\Panda\OneDrive\desktop\c#\slicing\bin\Debug\net8.0\slicing.exe
+C:\Users\Panda\OneDrive\desktop\c#\slicing\bin\Debug\net8.0\slicing.deps.json
+C:\Users\Panda\OneDrive\desktop\c#\slicing\bin\Debug\net8.0\slicing.runtimeconfig.json
+C:\Users\Panda\OneDrive\desktop\c#\slicing\bin\Debug\net8.0\slicing.dll
+C:\Users\Panda\OneDrive\desktop\c#\slicing\bin\Debug\net8.0\slicing.pdb
+C:\Users\Panda\OneDrive\desktop\c#\slicing\obj\Debug\net8.0\slicing.dll
+C:\Users\Panda\OneDrive\desktop\c#\slicing\obj\Debug\net8.0\refint\slicing.dll
+C:\Users\Panda\OneDrive\desktop\c#\slicing\obj\Debug\net8.0\slicing.pdb
+C:\Users\Panda\OneDrive\desktop\c#\slicing\obj\Debug\net8.0\slicing.genruntimeconfig.cache
+C:\Users\Panda\OneDrive\desktop\c#\slicing\obj\Debug\net8.0\ref\slicing.dll

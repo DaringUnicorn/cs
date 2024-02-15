@@ -12,3 +12,17 @@ C:\Users\Panda\OneDrive\desktop\c#\secondExercise\tipDonusumu\strings\obj\Debug\
 C:\Users\Panda\OneDrive\desktop\c#\secondExercise\tipDonusumu\strings\obj\Debug\net8.0\strings.pdb
 C:\Users\Panda\OneDrive\desktop\c#\secondExercise\tipDonusumu\strings\obj\Debug\net8.0\strings.genruntimeconfig.cache
 C:\Users\Panda\OneDrive\desktop\c#\secondExercise\tipDonusumu\strings\obj\Debug\net8.0\ref\strings.dll
+C:\Users\Panda\OneDrive\desktop\c#\strings\obj\Debug\net8.0\strings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Panda\OneDrive\desktop\c#\strings\obj\Debug\net8.0\strings.AssemblyInfoInputs.cache
+C:\Users\Panda\OneDrive\desktop\c#\strings\obj\Debug\net8.0\strings.AssemblyInfo.cs
+C:\Users\Panda\OneDrive\desktop\c#\strings\obj\Debug\net8.0\strings.csproj.CoreCompileInputs.cache
+C:\Users\Panda\OneDrive\desktop\c#\strings\obj\Debug\net8.0\strings.dll
+C:\Users\Panda\OneDrive\desktop\c#\strings\obj\Debug\net8.0\refint\strings.dll
+C:\Users\Panda\OneDrive\desktop\c#\strings\obj\Debug\net8.0\strings.pdb
+C:\Users\Panda\OneDrive\desktop\c#\strings\bin\Debug\net8.0\strings.exe
+C:\Users\Panda\OneDrive\desktop\c#\strings\bin\Debug\net8.0\strings.deps.json
+C:\Users\Panda\OneDrive\desktop\c#\strings\bin\Debug\net8.0\strings.runtimeconfig.json
+C:\Users\Panda\OneDrive\desktop\c#\strings\bin\Debug\net8.0\strings.dll
+C:\Users\Panda\OneDrive\desktop\c#\strings\bin\Debug\net8.0\strings.pdb
+C:\Users\Panda\OneDrive\desktop\c#\strings\obj\Debug\net8.0\strings.genruntimeconfig.cache
+C:\Users\Panda\OneDrive\desktop\c#\strings\obj\Debug\net8.0\ref\strings.dll

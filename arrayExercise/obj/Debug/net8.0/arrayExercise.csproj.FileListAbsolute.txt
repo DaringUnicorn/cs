@@ -1,0 +1,14 @@
+C:\Users\Panda\OneDrive\desktop\c#\arrayExercise\obj\Debug\net8.0\arrayExercise.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Panda\OneDrive\desktop\c#\arrayExercise\obj\Debug\net8.0\arrayExercise.AssemblyInfoInputs.cache
+C:\Users\Panda\OneDrive\desktop\c#\arrayExercise\obj\Debug\net8.0\arrayExercise.AssemblyInfo.cs
+C:\Users\Panda\OneDrive\desktop\c#\arrayExercise\obj\Debug\net8.0\arrayExercise.csproj.CoreCompileInputs.cache
+C:\Users\Panda\OneDrive\desktop\c#\arrayExercise\bin\Debug\net8.0\arrayExercise.exe
+C:\Users\Panda\OneDrive\desktop\c#\arrayExercise\bin\Debug\net8.0\arrayExercise.deps.json
+C:\Users\Panda\OneDrive\desktop\c#\arrayExercise\bin\Debug\net8.0\arrayExercise.runtimeconfig.json
+C:\Users\Panda\OneDrive\desktop\c#\arrayExercise\bin\Debug\net8.0\arrayExercise.dll
+C:\Users\Panda\OneDrive\desktop\c#\arrayExercise\bin\Debug\net8.0\arrayExercise.pdb
+C:\Users\Panda\OneDrive\desktop\c#\arrayExercise\obj\Debug\net8.0\arrayExercise.dll
+C:\Users\Panda\OneDrive\desktop\c#\arrayExercise\obj\Debug\net8.0\refint\arrayExercise.dll
+C:\Users\Panda\OneDrive\desktop\c#\arrayExercise\obj\Debug\net8.0\arrayExercise.pdb
+C:\Users\Panda\OneDrive\desktop\c#\arrayExercise\obj\Debug\net8.0\arrayExercise.genruntimeconfig.cache
+C:\Users\Panda\OneDrive\desktop\c#\arrayExercise\obj\Debug\net8.0\ref\arrayExercise.dll

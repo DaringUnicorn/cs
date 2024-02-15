@@ -1,0 +1,14 @@
+C:\Users\Panda\OneDrive\desktop\c#\dateTime\obj\Debug\net8.0\dateTime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Panda\OneDrive\desktop\c#\dateTime\obj\Debug\net8.0\dateTime.AssemblyInfoInputs.cache
+C:\Users\Panda\OneDrive\desktop\c#\dateTime\obj\Debug\net8.0\dateTime.AssemblyInfo.cs
+C:\Users\Panda\OneDrive\desktop\c#\dateTime\obj\Debug\net8.0\dateTime.csproj.CoreCompileInputs.cache
+C:\Users\Panda\OneDrive\desktop\c#\dateTime\bin\Debug\net8.0\dateTime.exe
+C:\Users\Panda\OneDrive\desktop\c#\dateTime\bin\Debug\net8.0\dateTime.deps.json
+C:\Users\Panda\OneDrive\desktop\c#\dateTime\bin\Debug\net8.0\dateTime.runtimeconfig.json
+C:\Users\Panda\OneDrive\desktop\c#\dateTime\bin\Debug\net8.0\dateTime.dll
+C:\Users\Panda\OneDrive\desktop\c#\dateTime\bin\Debug\net8.0\dateTime.pdb
+C:\Users\Panda\OneDrive\desktop\c#\dateTime\obj\Debug\net8.0\dateTime.dll
+C:\Users\Panda\OneDrive\desktop\c#\dateTime\obj\Debug\net8.0\refint\dateTime.dll
+C:\Users\Panda\OneDrive\desktop\c#\dateTime\obj\Debug\net8.0\dateTime.pdb
+C:\Users\Panda\OneDrive\desktop\c#\dateTime\obj\Debug\net8.0\dateTime.genruntimeconfig.cache
+C:\Users\Panda\OneDrive\desktop\c#\dateTime\obj\Debug\net8.0\ref\dateTime.dll
