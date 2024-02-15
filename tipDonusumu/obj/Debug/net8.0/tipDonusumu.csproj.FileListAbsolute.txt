@@ -1,0 +1,14 @@
+C:\Users\Panda\OneDrive\desktop\c#\secondExercise\tipDonusumu\bin\Debug\net8.0\tipDonusumu.exe
+C:\Users\Panda\OneDrive\desktop\c#\secondExercise\tipDonusumu\bin\Debug\net8.0\tipDonusumu.deps.json
+C:\Users\Panda\OneDrive\desktop\c#\secondExercise\tipDonusumu\bin\Debug\net8.0\tipDonusumu.runtimeconfig.json
+C:\Users\Panda\OneDrive\desktop\c#\secondExercise\tipDonusumu\bin\Debug\net8.0\tipDonusumu.dll
+C:\Users\Panda\OneDrive\desktop\c#\secondExercise\tipDonusumu\bin\Debug\net8.0\tipDonusumu.pdb
+C:\Users\Panda\OneDrive\desktop\c#\secondExercise\tipDonusumu\obj\Debug\net8.0\tipDonusumu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Panda\OneDrive\desktop\c#\secondExercise\tipDonusumu\obj\Debug\net8.0\tipDonusumu.AssemblyInfoInputs.cache
+C:\Users\Panda\OneDrive\desktop\c#\secondExercise\tipDonusumu\obj\Debug\net8.0\tipDonusumu.AssemblyInfo.cs
+C:\Users\Panda\OneDrive\desktop\c#\secondExercise\tipDonusumu\obj\Debug\net8.0\tipDonusumu.csproj.CoreCompileInputs.cache
+C:\Users\Panda\OneDrive\desktop\c#\secondExercise\tipDonusumu\obj\Debug\net8.0\tipDonusumu.dll
+C:\Users\Panda\OneDrive\desktop\c#\secondExercise\tipDonusumu\obj\Debug\net8.0\refint\tipDonusumu.dll
+C:\Users\Panda\OneDrive\desktop\c#\secondExercise\tipDonusumu\obj\Debug\net8.0\tipDonusumu.pdb
+C:\Users\Panda\OneDrive\desktop\c#\secondExercise\tipDonusumu\obj\Debug\net8.0\tipDonusumu.genruntimeconfig.cache
+C:\Users\Panda\OneDrive\desktop\c#\secondExercise\tipDonusumu\obj\Debug\net8.0\ref\tipDonusumu.dll
